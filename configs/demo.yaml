@@ -1,0 +1,3 @@
+hmac_secret: ${HOOKAPI_HMAC_SECRET}
+database_path: data/hookapi.db
+forward_url: http://127.0.0.1:9999/sink
